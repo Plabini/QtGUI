@@ -1,1 +1,0 @@
-var somePres= "you'll live"
